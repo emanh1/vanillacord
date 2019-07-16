@@ -18,12 +18,5 @@ unlike spigot you do not need to set your server to offline mode. the online-mod
 remember to firewall your server like you do with Spigot. this forces the server into offline mode and allows ip/uuid faking if it isn't correctly secured. http://www.spigotmc.org/wiki/firewall-guide/
 
 # building
-download [gradle](https://gradle.org/releases) and extract the zip file to a folder
-
-on git bash, navigate to the "bin" folder of gradle and run
-
-`git clone https://github.com/emanh1/vanillacord.git`
-
-open command line, again navigate to the bin folder then build project using
-
-`gradle build`
+open command line and navigate to the folder you cloned this repo into, then run
+`gradlew build`
