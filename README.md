@@ -18,5 +18,7 @@ unlike spigot you do not need to set your server to offline mode. the online-mod
 remember to firewall your server like you do with Spigot. this forces the server into offline mode and allows ip/uuid faking if it isn't correctly secured. http://www.spigotmc.org/wiki/firewall-guide/
 
 # building
+requires java dev kit
+
 open command line and navigate to the folder you cloned this repo into, then run
 `gradlew build`
