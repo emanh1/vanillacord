@@ -11,7 +11,7 @@ open command line and navigate to the folder you downloaded vanillacord to, then
 
 download vanilla server file [here](https://mcversions.net), choose your server version and click on "server jar" button
 
-the patched jar will be placed in the out sub-folder once completed.
+the patched jar will be placed in the same folder as vanillacord.jar file, with a "-bungee" suffix after
 
 unlike spigot you do not need to set your server to offline mode. the online-mode setting in server.properties will only be used for commands (e.g. whitelist) when looking up uuid's
 
