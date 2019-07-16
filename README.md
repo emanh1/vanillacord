@@ -6,6 +6,7 @@ requires [java 1.7+](http://java.com/download)
 
 usage: 
 open command line and navigate to the folder you downloaded vanillacord to, then run
+
 `java -jar vanillacord.jar <mojang's server jar file name>`
 
 download vanilla server file [here](https://mcversions.net), choose your server version and click on "server jar" button
