@@ -22,3 +22,5 @@ requires java dev kit
 
 open command line and navigate to the folder you cloned this repo into, then run
 `gradlew build`
+# download
+[here](https://github.com/emanh1/vanillacord/releases/download/v1.1/vanillacord.jar)
